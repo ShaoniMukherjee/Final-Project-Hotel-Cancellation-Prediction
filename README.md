@@ -1,4 +1,5 @@
 # Final-Project-Hotel-Cancellation-Prediction
+#kaggle project EDA
 Exploratory Data Analysis, Machine Learning Modeling, and Local Dashboard Deployment of the machine learning model. data could be found from [here](https://www.kaggle.com/jessemostipak/hotel-booking-demand) .
 
 For Dashboard with the tuned model please check it [here](https://drive.google.com/drive/folders/1Bh5uxq4kvW7s-19wHRIg197fcbJInyjc?usp=sharing)
